@@ -2,7 +2,7 @@
 
 ### Tecnologias a serem utilizadas:
 * -> Spring Boot (json/restful);
-* -> Srping data;
+* -> Spring Data;
 * -> Maven;
 * -> Postgres;
 * -> JUnit;
